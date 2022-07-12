@@ -104,7 +104,7 @@ padding: 80px;
 .about-btn{
     color: red;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: bold;
 }
 .about-btn:hover{
@@ -114,8 +114,9 @@ small{
     font-size: 15px;
 }
 .another{
-    display: flex;
-    flex-wrap: nowrap;
+   display: grid;
+   grid-template-columns: auto auto;
+   gap: 15px;
 }
 .about-time{
     width:300px ;
