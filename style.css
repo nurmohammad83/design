@@ -214,6 +214,9 @@ margin: 20px;
     color: red;
     text-decoration: none;
 }
+.card-2-link:hover{
+    color: #3ed335;
+}
 .service-title{
     margin: 50px 140px;
     padding: 40px 0 0 0;
