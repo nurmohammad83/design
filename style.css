@@ -113,6 +113,10 @@ padding: 80px;
 small{
     font-size: 15px;
 }
+.another{
+    display: flex;
+    flex-wrap: nowrap;
+}
 .about-time{
     width:300px ;
     height: 250px;
